@@ -1,3 +1,4 @@
+#(JS代码)把图片变成立体派风格kubist
 # kubist
 
 ![Kubist](https://raw.githubusercontent.com/williamngan/kubist/master/images/kubist.png "Kubist")
